@@ -7,7 +7,7 @@
 
 ---
 
-*WHAT IS SUSTAINABILITY, REALLY?* Here we have a term, so central to contemporary progressive philosophy that it serves as a catch-all for energy, ecology, urbanism, cars, environmental policy—you name it. We don't actually hear the term out loud very often. It doesn't always need to said out loud if only because its subsidiary terms ? Sustainability is no math problem; it is a product of language(!)—one which is due some analysis to bring its true meaning to light. [^1]
+*Here we have a term so central* to contemporary progressive philosophy that it serves as a catch-all for energy, ecology, urbanism, cars, environmental policy—you name it. We don't actually hear the term out loud very often. It doesn't always need to said out loud if only because its subsidiary terms ? Sustainability is no math problem; it is a product of language(!)—one which is due some analysis to bring its true meaning to light. [^1]
 
 Two major treatments on meaning and language come to mind: one of them Immanuel Kant’s Critique of Pure Reason (1781), and the other lies somewhere in the depths of mid-twentieth century Post-Structuralism. There is a tension between the two systems that we’ll discuss here, but they are also two sides of the same coin—and both are indispensable to having any real discussion about sustainability on local or world stages.
 
