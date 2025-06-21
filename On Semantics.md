@@ -30,7 +30,8 @@ With regard to sustainability: it’s a personal least-favorite word of mine, no
 Almost two hundreds years after Kant, in the early 1900’s, philosophers started looking more closely at language and meaning in the context of Structuralism, which discards the idea of universal platonic concepts, and says that we really only understand the meaning of words as they relate to other words. No concept is original—it merely inhabits pre-existing structures. We can’t understand the concept of 'democracy' without building onto the structure of the word 'government,' which in turn is built onto so much extant scaffolding: collective decision-making, taxation, bureaucracy, etc.
 
 Some decades later, the French Post-Structuralists of the 1960’s came along and __deconstructed Structuralism.__ A good explanation comes from Corey Mohler:
-*Post-structuralism is an internal, structuralist critique of structuralism itself. [Derrida] claims that even the structure of the words is not adequate to understand the meaning of a word, since the meaning of a word always depends on its context, both current and historical, and that context is never stable. Therefore it is impossible for words to have fixed meanings or be understood completely.*
+
+> __Post-structuralism is an internal, structuralist critique of structuralism itself. Derrida claims that even the structure of the words is not adequate to understand the meaning of a word, since the meaning of a word always depends on its context, both current and historical, and that context is never stable. Therefore it is impossible for words to have fixed meanings or be understood completely.__ [^1]
 
 Post-structuralism, therefore, injects new layers into our collective conception of 'sustainability.' The older proxies we once used to signal our concern for the earth—rainforest destruction, the 'hole in the ozone,'' acid rain, global warming—have generally been discarded in favor of 'climate change.' In a post-structuralist world, we encounter the collision of context, connotation, power, hierarchy, and even enunciation when we try to agree on new ideas and their place in society.
 
@@ -46,4 +47,4 @@ While 'agreeing on a definition' is half the battle, the other half really is fi
 
 [^1]: (1) We find a number of problems with this definition, not least that it reduces sustainability to a human-centric resource allocation problem.
 
-[^2]: (2) Additional footnote
+[^2]: (2) https://existentialcomics.com/comic/23
