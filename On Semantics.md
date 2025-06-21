@@ -1,7 +1,7 @@
 
 ---
 
-> *And here begins my despair as a writer. All language is a set of symbols whose use among its speakers assumes a shared past. How, then, can I translate into words the limitless Aleph, which my floundering mind can scarcely encompass?* 
+> And here begins my despair as a writer. All language is a set of symbols whose use among its speakers assumes a shared past. How, then, can I translate into words the limitless Aleph, which my floundering mind can scarcely encompass?
 
 > —Jorge Luis Borges, The Aleph (1945)
 
@@ -31,7 +31,7 @@ Almost two hundreds years after Kant, in the early 1900’s, philosophers starte
 
 Some decades later, the French Post-Structuralists of the 1960’s came along and __deconstructed Structuralism.__ A good explanation comes from Corey Mohler:
 
-> *Post-structuralism is an internal, structuralist critique of structuralism itself. Derrida claims that even the structure of the words is not adequate to understand the meaning of a word, since the meaning of a word always depends on its context, both current and historical, and that context is never stable. Therefore it is impossible for words to have fixed meanings or be understood completely.* [^2]
+> Post-structuralism is an internal, structuralist critique of structuralism itself. Derrida claims that even the structure of the words is not adequate to understand the meaning of a word, since the meaning of a word always depends on its context, both current and historical, and that context is never stable. Therefore it is impossible for words to have fixed meanings or be understood completely. [^2]
 
 Post-structuralism, therefore, injects new layers into our collective conception of 'sustainability.' The older proxies we once used to signal our concern for the earth—rainforest destruction, the 'hole in the ozone,'' acid rain, global warming—have generally been discarded in favor of 'climate change.' In a post-structuralist world, we encounter the collision of context, connotation, power, hierarchy, and even enunciation when we try to agree on new ideas and their place in society.
 
