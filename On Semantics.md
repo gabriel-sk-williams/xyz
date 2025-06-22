@@ -35,7 +35,7 @@ With regard to sustainability: it’s a personal least-favorite word of mine, no
 ### part two: post-structuralism
 Almost two hundreds years after Kant, in the early 1900’s, philosophers started looking more closely at language and meaning in the context of Structuralism, which discards the idea of universal platonic concepts, and says that we really only understand the meaning of words as they relate to other words. No concept is original—it merely inhabits pre-existing structures. We can’t understand the concept of 'democracy' without building onto the structure of the word 'government,' which in turn is built onto so much extant scaffolding: collective decision-making, taxation, bureaucracy, etc.
 
-Some decades later, the French Post-Structuralists of the 1960’s came along and deconstructed Structuralism. A good explanation comes from Corey Mohler:[^1]
+Some decades later, the French Post-Structuralists of the 1960’s came along and deconstructed Structuralism. A good explanation comes from Corey Mohler:[^2]
 
 > Post-structuralism... is an internal, structuralist critique of structuralism itself. Derrida claims that even the structure of the words is not adequate to understand the meaning of a word, since the meaning of a word always depends on its context, both current and historical, and that context is never stable. Therefore it is impossible for words to have fixed meanings or be understood completely.
 
@@ -45,7 +45,8 @@ The material landscape is changing too: Tesla is arguably the most powerful priv
 
 ### part three: a sustainable definition
 In 2019, it feels as if no one has much to say about sustainability beyond “making sure the Earth doesn’t get a few degrees hotter, at all costs” but certainly—a number of intellectuals have made an attempt at defining the term. The most famous, in academic circles, was offered in 1987 by the Brundtland Commission, a committee appointed by the UN as a means of rallying countries together on the issue:
-_Development that meets the needs of the present without compromising the ability of future generations to meet their own needs._[^2]
+
+> Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.[^3]
 
 We find a number of problems with this definition, not least that it reduces sustainability to a human-centric resource allocation problem. Also: “future generations”? How many? Are we talking about the next fifty generations or the next fifty years? Time is left open-ended, and every following measure of sustainability breaks down. Should we be striving to create sustainable Earthly systems until the Sun explodes? If so, what are the real barriers and goals associated with humanity meeting its own basic needs until solar collapse?
 While 'agreeing on a definition' is half the battle, the other half really is figuring out what to do about it. Sustainability is now popularly conceived as a problem of government policy, meaning that climate change is now everyone's problem—but not one we can tackle without forcing everyone to comply. I, however, largely disagree; there is so much more potential for innovation. Stay tuned.
