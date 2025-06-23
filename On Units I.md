@@ -1,3 +1,9 @@
+>"The Constitution! You yourselves have destroyed it. You violated it on 18 Fructidor; you violated it on 22 Floreal; you violated it on 30 Prairial. It no longer has the respect of anyone." 
+
+> —Napoleon, on 18 Brumiare
+
+
+
 Despite what you've been told in school, the metric system is not always perfect. Alternative units and systems can sometimes provide superior utility in the appropriate context. If you recoil at the mere mention of imperial or even vernacular measurement systems, this essay is for you—the dogmatic acolytes of metric.
 
 ### I.

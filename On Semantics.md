@@ -7,7 +7,7 @@
 
 ---
 
-At some point in recent history[^1] it became very difficult to talk to people, and it wasn't easy to say why. At first it just seemed like a byproduct of living in Manhattan (which I found to be uniquely aggressive place, linguistically), but even if it was, it soon spread to every other corner of the US.
+At some point in recent history[^1] it became very difficult to talk to people. It wasn't easy to say why. At first it just seemed like a byproduct of living in Manhattan (which I found, personally, to be a uniquely aggressive place), but even if it was, it soon spread to every other corner of the US.
 
 More specifically, there was some sort of trouble with _words_. 
 
@@ -46,16 +46,13 @@ The material landscape is changing too: Tesla is arguably the most powerful priv
 ### part three: a sustainable definition
 In 2019, it feels as if no one has much to say about sustainability beyond “making sure the Earth doesn’t get a few degrees hotter, at all costs” but certainly—a number of intellectuals have made an attempt at defining the term. The most famous, in academic circles, was offered in 1987 by the Brundtland Commission, a committee appointed by the UN as a means of rallying countries together on the issue:
 
-> Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.[^3]
+> Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.
 
 We find a number of problems with this definition, not least that it reduces sustainability to a human-centric resource allocation problem. Also: “future generations”? How many? Are we talking about the next fifty generations or the next fifty years? Time is left open-ended, and every following measure of sustainability breaks down. Should we be striving to create sustainable Earthly systems until the Sun explodes? If so, what are the real barriers and goals associated with humanity meeting its own basic needs until solar collapse?
-While 'agreeing on a definition' is half the battle, the other half really is figuring out what to do about it. Sustainability is now popularly conceived as a problem of government policy, meaning that climate change is now everyone's problem—but not one we can tackle without forcing everyone to comply. I, however, largely disagree; there is so much more potential for innovation. Stay tuned.
+While 'agreeing on a definition' is half the battle, the other half really is figuring out what to do about it. Sustainability is now popularly conceived as a problem of government policy, meaning that climate change is now everyone's problem—but not one we can tackle without forcing everyone to comply. Personally, I disagree. There is so much more potential for innovation. Stay tuned.
 
 
-[^1]: (1)  I personally attribute this inflection point to the death of Harambe
+[^1]: (1)  I personally attribute this inflection point to the death of Harambe.
 
-[^2]: (2) Mohler is the [Existential Comics](https://existentialcomics.com/comic/23) guy. Redacted from this quote is the admission that he himself does not understand post-modernism very well. I suspect Derrida's argument is much less direct and more nuanced than this, but it's good enough for our purposes today.
-
-[^3]: (3) I still take issue with this definition, but it's not a bad start. I think it reduces sustainability to a resource allocation problem.
-
+[^2]: (2) Mohler is the [Existential Comics](https://existentialcomics.com/comic/23) guy. Redacted from this quote is the admission that he himself does not understand post-modernism very well. I suspect Derrida is much more nuanced on this, but this is good enough for our purposes.
 
